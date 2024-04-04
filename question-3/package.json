@@ -1,0 +1,17 @@
+{
+  "name": "find_next_birthday_package2024",
+  "version": "1.0.0",
+  "description": "This module gives the next birthday calculation",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HUMA MOHSIN",
+  "license": "MIT",
+  "dependencies": {
+    "to_findout_remaining_days_left_until_newyear_begin_2024": "^1.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "to_get_the_current_time_2024",
+  "version": "1.0.0",
+  "description": "This module helps the user to provide a current date.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HUMA MOHSIN",
+  "license": "MIT"
+}

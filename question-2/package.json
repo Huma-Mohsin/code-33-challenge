@@ -1,0 +1,13 @@
+{
+  "name": "to_findout_remaining_days_left_until_newyear_begin_2024",
+  "version": "1.0.0",
+  "description": "this module helps to findout remaining days left in a year to end or until new year begin.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HUMA MOHSIN",
+  "license": "MIT"
+}
